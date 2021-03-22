@@ -13,7 +13,7 @@ The Application uses MVVM architecture and provider package for better state man
 The Screen is responsive with elegant UI/UX and themes.
 Note- For better results of using HTML Element in Flutter Web Google suggests web rendering. 
 Run the application in console with the command: flutter run -d chrome --web-renderer html
-However, the application can be run from the editor too.
+However, the application can be run from the editor too
 
 
 
